@@ -1,0 +1,511 @@
+{
+    "events": [
+    {
+    "type": "concert",
+    "id": 5891788,
+    "datetime_utc": "2023-03-13T00:00:00",
+    "venue": {
+    "state": "IL",
+    "name_v2": "Coronado Performing Arts Center",
+    "postal_code": "61101",
+    "name": "Coronado Performing Arts Center",
+    "links": [],
+    "timezone": "America/Chicago",
+    "url": "https://seatgeek.com/venues/coronado-performing-arts-center-1/tickets",
+    "score": 0.43,
+    "location": {
+    "lat": 42.274,
+    "lon": -89.0929
+    },
+    "address": "314 N. Main St.",
+    "country": "US",
+    "has_upcoming_events": true,
+    "num_upcoming_events": 12,
+    "city": "Rockford",
+    "slug": "coronado-performing-arts-center-1",
+    "extended_address": "Rockford, IL 61101",
+    "id": 1149,
+    "popularity": 0,
+    "access_method": null,
+    "metro_code": 610,
+    "capacity": 2310,
+    "display_location": "Rockford, IL"
+    },
+    "datetime_tbd": false,
+    "performers": [
+    {
+    "type": "band",
+    "name": "Nitty Gritty Dirt Band",
+    "image": "https://seatgeek.com/images/performers-landscape/nitty-gritty-dirt-band-a132b4/6238/huge.jpg",
+    "id": 6238,
+    "images": {
+    "huge": "https://seatgeek.com/images/performers-landscape/nitty-gritty-dirt-band-a132b4/6238/huge.jpg"
+    },
+    "divisions": null,
+    "has_upcoming_events": true,
+    "primary": true,
+    "stats": {
+    "event_count": 14
+    },
+    "taxonomies": [
+    {
+    "id": 2000000,
+    "name": "concerts",
+    "parent_id": null,
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    },
+    "rank": 1
+    }
+    ],
+    "image_attribution": "Johnny Louis / FilmMagic / Getty Images",
+    "url": "https://seatgeek.com/nitty-gritty-dirt-band-tickets",
+    "score": 0.28,
+    "slug": "nitty-gritty-dirt-band",
+    "home_venue_id": null,
+    "short_name": "Nitty Gritty Dirt Band",
+    "num_upcoming_events": 14,
+    "colors": null,
+    "image_license": "rightsmanaged",
+    "genres": [
+    {
+    "id": 456,
+    "name": "Rock",
+    "slug": "rock",
+    "primary": false,
+    "images": {
+    "1200x525": "https://seatgeek.com/images/performers-landscape/taylor-swift-95bfc1/35/1200x525.jpg",
+    "1200x627": "https://seatgeek.com/images/performers-landscape/taylor-swift-5aed70/35/1200x627.jpg",
+    "136x136": "https://seatgeek.com/images/performers-landscape/taylor-swift-ea1e7e/35/136x136.jpg",
+    "500_700": "https://seatgeek.com/images/performers-landscape/taylor-swift-23f9f5/35/500_700.jpg",
+    "800x320": "https://seatgeek.com/images/performers-landscape/taylor-swift-1ad124/35/800x320.jpg",
+    "banner": "https://seatgeek.com/images/performers-landscape/taylor-swift-397e97/35/banner.jpg",
+    "block": "https://seatgeek.com/images/performers-landscape/taylor-swift-9e502b/35/block.jpg",
+    "criteo_130_160": "https://seatgeek.com/images/performers-landscape/taylor-swift-310144/35/criteo_130_160.jpg",
+    "criteo_170_235": "https://seatgeek.com/images/performers-landscape/taylor-swift-19e3f0/35/criteo_170_235.jpg",
+    "criteo_205_100": "https://seatgeek.com/images/performers-landscape/taylor-swift-92ebf3/35/criteo_205_100.jpg",
+    "criteo_400_300": "https://seatgeek.com/images/performers-landscape/taylor-swift-bab6e1/35/criteo_400_300.jpg",
+    "fb_100x72": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1dbf4/35/fb_100x72.jpg",
+    "fb_600_315": "https://seatgeek.com/images/performers-landscape/taylor-swift-15afb9/35/fb_600_315.jpg",
+    "huge": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+    "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/taylor-swift-3ebde5/35/ipad_event_modal.jpg",
+    "ipad_header": "https://seatgeek.com/images/performers-landscape/taylor-swift-a807ae/35/ipad_header.jpg",
+    "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/taylor-swift-69d4a9/35/ipad_mini_explore.jpg",
+    "mongo": "https://seatgeek.com/images/performers-landscape/taylor-swift-5a3f01/35/mongo.jpg",
+    "square_mid": "https://seatgeek.com/images/performers-landscape/taylor-swift-db2f1f/35/square_mid.jpg",
+    "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/taylor-swift-c3abf8/35/triggit_fb_ad.jpg"
+    },
+    "image": "https://seatgeek.com/images/performers-landscape/taylor-swift-c1e4b6/35/huge.jpg",
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    }
+    },
+    {
+    "id": 450,
+    "name": "Country",
+    "slug": "country",
+    "primary": false,
+    "images": {
+    "1200x525": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-33f7af/797285/1200x525.jpg",
+    "1200x627": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-ecb7cd/797285/1200x627.jpg",
+    "136x136": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-5e4173/797285/136x136.jpg",
+    "500_700": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-980de8/797285/500_700.jpg",
+    "800x320": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-0e29a9/797285/800x320.jpg",
+    "banner": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-b2a51d/797285/banner.jpg",
+    "block": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-cd2735/797285/block.jpg",
+    "criteo_130_160": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-6c4869/797285/criteo_130_160.jpg",
+    "criteo_170_235": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-9a42b0/797285/criteo_170_235.jpg",
+    "criteo_205_100": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-c48ddb/797285/criteo_205_100.jpg",
+    "criteo_400_300": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-9cf993/797285/criteo_400_300.jpg",
+    "fb_100x72": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-29f47c/797285/fb_100x72.jpg",
+    "fb_600_315": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-571764/797285/fb_600_315.jpg",
+    "huge": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-a6d843/797285/huge.jpg",
+    "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-498dd7/797285/ipad_event_modal.jpg",
+    "ipad_header": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-7bb559/797285/ipad_header.jpg",
+    "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-4157c6/797285/ipad_mini_explore.jpg",
+    "mongo": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-a4a14d/797285/mongo.jpg",
+    "square_mid": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-0fee8f/797285/square_mid.jpg",
+    "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-6a2431/797285/triggit_fb_ad.jpg"
+    },
+    "image": "https://seatgeek.com/images/performers-landscape/bailey-zimmerman-a6d843/797285/huge.jpg",
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    }
+    },
+    {
+    "id": 452,
+    "name": "Pop",
+    "slug": "pop",
+    "primary": false,
+    "images": {
+    "1200x525": "https://seatgeek.com/images/performers-landscape/haim-363d7c/22944/1200x525.jpg",
+    "1200x627": "https://seatgeek.com/images/performers-landscape/haim-984eed/22944/1200x627.jpg",
+    "136x136": "https://seatgeek.com/images/performers-landscape/haim-9d68de/22944/136x136.jpg",
+    "500_700": "https://seatgeek.com/images/performers-landscape/haim-d7afaf/22944/500_700.jpg",
+    "800x320": "https://seatgeek.com/images/performers-landscape/haim-279dc7/22944/800x320.jpg",
+    "banner": "https://seatgeek.com/images/performers-landscape/haim-552160/22944/banner.jpg",
+    "block": "https://seatgeek.com/images/performers-landscape/haim-7f0a22/22944/block.jpg",
+    "criteo_130_160": "https://seatgeek.com/images/performers-landscape/haim-aa1483/22944/criteo_130_160.jpg",
+    "criteo_170_235": "https://seatgeek.com/images/performers-landscape/haim-107b3c/22944/criteo_170_235.jpg",
+    "criteo_205_100": "https://seatgeek.com/images/performers-landscape/haim-534350/22944/criteo_205_100.jpg",
+    "criteo_400_300": "https://seatgeek.com/images/performers-landscape/haim-cbf794/22944/criteo_400_300.jpg",
+    "fb_100x72": "https://seatgeek.com/images/performers-landscape/haim-f013a1/22944/fb_100x72.jpg",
+    "fb_600_315": "https://seatgeek.com/images/performers-landscape/haim-199e73/22944/fb_600_315.jpg",
+    "huge": "https://seatgeek.com/images/performers-landscape/haim-5e9a38/22944/huge.jpg",
+    "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/haim-b9edc2/22944/ipad_event_modal.jpg",
+    "ipad_header": "https://seatgeek.com/images/performers-landscape/haim-2d6100/22944/ipad_header.jpg",
+    "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/haim-ba5e46/22944/ipad_mini_explore.jpg",
+    "mongo": "https://seatgeek.com/images/performers-landscape/haim-de9a89/22944/mongo.jpg",
+    "square_mid": "https://seatgeek.com/images/performers-landscape/haim-c0ef53/22944/square_mid.jpg",
+    "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/haim-d27df0/22944/triggit_fb_ad.jpg"
+    },
+    "image": "https://seatgeek.com/images/performers-landscape/haim-5e9a38/22944/huge.jpg",
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    }
+    },
+    {
+    "id": 467,
+    "name": "Folk",
+    "slug": "folk",
+    "primary": true,
+    "images": {
+    "1200x525": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-6da60d/370135/1200x525.jpg",
+    "1200x627": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-16f08f/370135/1200x627.jpg",
+    "136x136": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-14884d/370135/136x136.jpg",
+    "500_700": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-2c15a8/370135/500_700.jpg",
+    "800x320": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-5414af/370135/800x320.jpg",
+    "banner": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-e252f5/370135/banner.jpg",
+    "block": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-4dcde5/370135/block.jpg",
+    "criteo_130_160": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-579f3a/370135/criteo_130_160.jpg",
+    "criteo_170_235": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-d9e67b/370135/criteo_170_235.jpg",
+    "criteo_205_100": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-1cbde4/370135/criteo_205_100.jpg",
+    "criteo_400_300": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-cc2b6d/370135/criteo_400_300.jpg",
+    "fb_100x72": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-07a235/370135/fb_100x72.jpg",
+    "fb_600_315": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-5f4b5c/370135/fb_600_315.jpg",
+    "huge": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-b19535/370135/huge.jpg",
+    "ipad_event_modal": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-91ee7d/370135/ipad_event_modal.jpg",
+    "ipad_header": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-fba953/370135/ipad_header.jpg",
+    "ipad_mini_explore": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-84d2a5/370135/ipad_mini_explore.jpg",
+    "mongo": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-6e1ab3/370135/mongo.jpg",
+    "square_mid": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-6adbf5/370135/square_mid.jpg",
+    "triggit_fb_ad": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-006723/370135/triggit_fb_ad.jpg"
+    },
+    "image": "https://seatgeek.com/images/performers-landscape/phoebe-bridgers-b19535/370135/huge.jpg",
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    }
+    }
+    ],
+    "popularity": 0,
+    "location": null,
+    "image_rights_message": "(c) Johnny Louis / FilmMagic / Getty Images"
+    }
+    ],
+    "is_open": false,
+    "links": [],
+    "datetime_local": "2023-03-12T19:00:00",
+    "time_tbd": false,
+    "short_title": "Nitty Gritty Dirt Band",
+    "visible_until_utc": "2023-03-13T04:00:00",
+    "stats": {
+    "listing_count": 129,
+    "average_price": 122,
+    "lowest_price_good_deals": null,
+    "lowest_price": 60,
+    "highest_price": 248,
+    "visible_listing_count": 107,
+    "dq_bucket_counts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+    ],
+    "median_price": 123,
+    "lowest_sg_base_price": 40,
+    "lowest_sg_base_price_good_deals": null
+    },
+    "taxonomies": [
+    {
+    "id": 2000000,
+    "name": "concert",
+    "parent_id": null,
+    "rank": 0
+    }
+    ],
+    "url": "https://seatgeek.com/nitty-gritty-dirt-band-tickets/rockford-illinois-coronado-performing-arts-center-1-2023-03-12-7-pm/concert/5891788",
+    "score": 0.369,
+    "announce_date": "2022-12-07T00:00:00",
+    "created_at": "2022-12-07T16:04:53",
+    "date_tbd": false,
+    "title": "Nitty Gritty Dirt Band",
+    "popularity": 0.7,
+    "description": "",
+    "status": "normal",
+    "access_method": null,
+    "event_promotion": null,
+    "announcements": {},
+    "conditional": false,
+    "enddatetime_utc": null,
+    "visible_at": "1970-01-01T00:00:00Z",
+    "is_visible_override": "UNSET",
+    "tdc_pvo_id": 0,
+    "tdc_pv_id": 0,
+    "themes": [],
+    "domain_information": []
+    },
+    {
+    "type": "minor_league_hockey",
+    "id": 5758895,
+    "datetime_utc": "2023-03-16T00:00:00",
+    "venue": {
+    "state": "IL",
+    "name_v2": "BMO Harris Bank Center",
+    "postal_code": "61101",
+    "name": "BMO Harris Bank Center",
+    "links": [],
+    "timezone": "America/Chicago",
+    "url": "https://seatgeek.com/venues/bmo-harris-bank-center/tickets",
+    "score": 0.4,
+    "location": {
+    "lat": 42.2711,
+    "lon": -89.094
+    },
+    "address": "300 Elm St.",
+    "country": "US",
+    "has_upcoming_events": true,
+    "num_upcoming_events": 9,
+    "city": "Rockford",
+    "slug": "bmo-harris-bank-center",
+    "extended_address": "Rockford, IL 61101",
+    "id": 632,
+    "popularity": 0,
+    "access_method": null,
+    "metro_code": 610,
+    "capacity": 8000,
+    "display_location": "Rockford, IL"
+    },
+    "datetime_tbd": false,
+    "performers": [
+    {
+    "type": "minor_league_hockey",
+    "name": "Rockford Icehogs",
+    "image": "https://seatgeek.com/images/performers-landscape/rockford-icehogs-25ef41/9219/huge.jpg",
+    "id": 9219,
+    "images": {
+    "huge": "https://seatgeek.com/images/performers-landscape/rockford-icehogs-25ef41/9219/huge.jpg"
+    },
+    "divisions": null,
+    "has_upcoming_events": true,
+    "primary": true,
+    "stats": {
+    "event_count": 17
+    },
+    "taxonomies": [
+    {
+    "id": 1000000,
+    "name": "sports",
+    "parent_id": null,
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    },
+    "rank": 0
+    },
+    {
+    "id": 1040000,
+    "name": "hockey",
+    "parent_id": 1000000,
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    },
+    "rank": 0
+    },
+    {
+    "id": 1040300,
+    "name": "minor_league_hockey",
+    "parent_id": 1040000,
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    },
+    "rank": 0
+    }
+    ],
+    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+    "url": "https://seatgeek.com/rockford-icehogs-tickets",
+    "score": 0.25,
+    "slug": "rockford-icehogs",
+    "home_venue_id": 632,
+    "short_name": "Rockford IceHogs",
+    "num_upcoming_events": 17,
+    "colors": null,
+    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+    "popularity": 0,
+    "home_team": true,
+    "location": {
+    "lat": 42.2711,
+    "lon": -89.094
+    },
+    "image_rights_message": ""
+    },
+    {
+    "type": "minor_league_hockey",
+    "name": "Manitoba Moose",
+    "image": "https://seatgeek.com/images/performers-landscape/manitoba-moose-0aa06c/9333/huge.jpg",
+    "id": 9333,
+    "images": {
+    "huge": "https://seatgeek.com/images/performers-landscape/manitoba-moose-0aa06c/9333/huge.jpg"
+    },
+    "divisions": null,
+    "has_upcoming_events": true,
+    "stats": {
+    "event_count": 19
+    },
+    "taxonomies": [
+    {
+    "id": 1000000,
+    "name": "sports",
+    "parent_id": null,
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    },
+    "rank": 0
+    },
+    {
+    "id": 1040000,
+    "name": "hockey",
+    "parent_id": 1000000,
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    },
+    "rank": 0
+    },
+    {
+    "id": 1040300,
+    "name": "minor_league_hockey",
+    "parent_id": 1040000,
+    "document_source": {
+    "source_type": "ELASTIC",
+    "generation_type": "FULL"
+    },
+    "rank": 0
+    }
+    ],
+    "image_attribution": "SeatGeek - 2022 (2000 X 2000)",
+    "url": "https://seatgeek.com/manitoba-moose-tickets",
+    "score": 0.25,
+    "slug": "manitoba-moose",
+    "home_venue_id": 98,
+    "short_name": "Manitoba Moose",
+    "num_upcoming_events": 19,
+    "colors": null,
+    "image_license": "SeatGeek - 2022 (2000 X 2000)",
+    "popularity": 0,
+    "away_team": true,
+    "location": {
+    "lat": 49.8936,
+    "lon": -97.1435
+    },
+    "image_rights_message": ""
+    }
+    ],
+    "is_open": false,
+    "links": [],
+    "datetime_local": "2023-03-15T19:00:00",
+    "time_tbd": false,
+    "short_title": "Manitoba Moose at Rockford IceHogs",
+    "visible_until_utc": "2023-03-16T04:00:00",
+    "stats": {
+    "listing_count": 766,
+    "average_price": 55,
+    "lowest_price_good_deals": null,
+    "lowest_price": 25,
+    "highest_price": 233,
+    "visible_listing_count": 646,
+    "dq_bucket_counts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+    ],
+    "median_price": 53,
+    "lowest_sg_base_price": 14,
+    "lowest_sg_base_price_good_deals": null
+    },
+    "taxonomies": [
+    {
+    "id": 1000000,
+    "name": "sports",
+    "parent_id": null,
+    "rank": 0
+    },
+    {
+    "id": 1040000,
+    "name": "hockey",
+    "parent_id": 1000000,
+    "rank": 0
+    },
+    {
+    "id": 1040300,
+    "name": "minor_league_hockey",
+    "parent_id": 1040000,
+    "rank": 0
+    }
+    ],
+    "url": "https://seatgeek.com/manitoba-moose-at-rockford-icehogs-tickets/minor-league-hockey/2023-03-15-7-pm/5758895",
+    "score": 0.312,
+    "announce_date": "2022-07-22T00:00:00",
+    "created_at": "2022-07-22T18:16:27",
+    "date_tbd": false,
+    "title": "Manitoba Moose at Rockford IceHogs",
+    "popularity": 0.668,
+    "description": "",
+    "status": "normal",
+    "access_method": null,
+    "event_promotion": null,
+    "announcements": {},
+    "conditional": false,
+    "enddatetime_utc": null,
+    "visible_at": "1970-01-01T00:00:00Z",
+    "is_visible_override": "UNSET",
+    "tdc_pvo_id": 0,
+    "tdc_pv_id": 0,
+    "themes": [],
+    "domain_information": []
+    }
+    ],
+    "meta": {
+    "total": 21,
+    "took": 4,
+    "page": 1,
+    "per_page": 2,
+    "geolocation": {
+    "lat": 42.2529,
+    "lon": -89.0807,
+    "city": "Rockford",
+    "state": "IL",
+    "country": "US",
+    "postal_code": "61104",
+    "display_name": "Rockford, IL",
+    "metro_code": "610",
+    "range": "5mi"
+    }
+    }
+    }
